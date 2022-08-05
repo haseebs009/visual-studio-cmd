@@ -1,0 +1,38 @@
+*
+{
+    background-color: rgb(235, 235, 235);
+}
+#alert
+{
+    color: red;
+}
+body
+{
+ 
+    margin:20px;
+}
+Button
+{
+    background-color: aqua;
+}
+#Button1:hover {
+    background-color: yellow;
+  }
+  #Button2:hover {
+    background-color: yellow;
+}
+  
+  #Button3:hover {
+    background-color: yellow;
+}
+  
+  #alert
+  {
+    color: rgb(241, 0, 0);
+    font-size: small;
+    font-style: italic;
+  }
+  #div
+  {
+    background-color: antiquewhite;
+  }

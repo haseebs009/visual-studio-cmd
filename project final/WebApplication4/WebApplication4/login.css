@@ -1,0 +1,62 @@
+* {
+    background-color: rgb(235, 235, 235);
+}
+
+#alert {
+    color: red;
+}
+#greet
+{
+    background-color:lightgrey;
+    width: 517px;
+}
+body {
+    margin: 20px;
+}
+
+#Button1 {
+    background-color: aqua;
+}
+
+#Button1:hover {
+    background-color: yellow;
+}
+
+#Button2 {
+    background-color: aqua;
+}
+
+    #Button2:hover {
+        background-color: yellow;
+    }
+
+#Button3 {
+    background-color: aqua;
+}
+ #Button3:hover {
+        background-color: yellow;
+ }
+#Button4 {
+    background-color: red;
+}
+
+    #Button4:hover {
+        background-color: darkred;
+    }
+
+#alert {
+    color: rgb(241, 0, 0);
+    font-size: small;
+    font-style: italic;
+}
+
+#div {
+    background-color: antiquewhite;
+}
+#total {
+    font:large;
+    border: solid;
+    color: black;
+    background-color: blanchedalmond;
+}
+
